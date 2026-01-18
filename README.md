@@ -97,8 +97,11 @@ effectiveness.
 
 ------------------------------------------------------------------------
 
-## 🚀 Future Improvements
+## 🚀 Dashboard Pages
 
--   Predictive modeling for conversion probability
--   Advanced customer segmentation
--   Real-time dashboard integration
+![Uploading 5T.PNG…]()
+<img width="1283" height="728" alt="TT" src="https://github.com/user-attachments/assets/91f947ad-8628-47aa-ac12-f4039b2985d8" />
+<img width="1286" height="725" alt="UU" src="https://github.com/user-attachments/assets/9e4d5665-c6bd-40c4-a7f9-20d640be9296" />
+<img width="1290" height="728" alt="WW" src="https://github.com/user-attachments/assets/a1de63ac-0417-46a0-8ca4-2f2194e80ec9" />
+
+
