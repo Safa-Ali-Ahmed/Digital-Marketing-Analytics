@@ -99,7 +99,7 @@ effectiveness.
 
 ## 🚀 Dashboard Pages
 
-![Uploading 5T.PNG…]()
+<img width="1281" height="721" alt="5T" src="https://github.com/user-attachments/assets/e87da2aa-d502-4514-a4c8-70401ecc3852" />
 <img width="1283" height="728" alt="TT" src="https://github.com/user-attachments/assets/91f947ad-8628-47aa-ac12-f4039b2985d8" />
 <img width="1286" height="725" alt="UU" src="https://github.com/user-attachments/assets/9e4d5665-c6bd-40c4-a7f9-20d640be9296" />
 <img width="1290" height="728" alt="WW" src="https://github.com/user-attachments/assets/a1de63ac-0417-46a0-8ca4-2f2194e80ec9" />
